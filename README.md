@@ -1,3 +1,3 @@
 # hello-world
-My first test repository in GIT
-changing the readme file in the branch
+My first test repository in GIT 
+Changing the readme file in the branch
